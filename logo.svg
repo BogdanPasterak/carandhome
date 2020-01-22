@@ -2,7 +2,7 @@
 <!-- Logo Home & Car Service -->
 <!-- Autor Bogdan Pasterak -->
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" stroke-linecap="round" stroke="black">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 202" stroke-linecap="round" stroke="black">
    <!-- SERVICE -->
    <g stroke-width="11"  fill="none">
       <!-- S -->
@@ -44,18 +44,4 @@
       <circle cx="217.3" cy="164.2" r="10.5" />
       <circle cx="217.3" cy="164.2" r="31.5" fill="none" stroke-width="11" />
    </g>
-   <!-- Phone -->
-   <g stroke-width="0" fill="black" >
-      <style>
-         .phone-number {
-            font-family: sans-serif;
-            font-size: 42px;
-            font-weight: bolder;
-         }
-      </style>
-      <text x="0" y="240" textLength="100%" class="phone-number" >
-         087 1222 770 
-      </text>
-   </g>
-
 </svg>
