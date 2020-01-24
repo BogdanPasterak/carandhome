@@ -3,9 +3,12 @@
 }
 
 .size_img {
-    /* width: 1172px;
-    height: 792px; */
     width: 300px;
+}
+.icon_candh {
+    width: 75px;
+    opacity: 1;
+    padding: 0%;
 }
 
 .red {
@@ -25,6 +28,8 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    max-width: 1700px;
+    margin: auto;
 }
   
 /* Navigation bar */
@@ -38,9 +43,14 @@ body {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 20px;
     text-decoration: none;
     font-size: 17px;
+}
+
+.topnav a:first-of-type {
+    padding: 3px 10px 1px;
+    background-color: #aaa;
 }
 
 .topnav a:hover {

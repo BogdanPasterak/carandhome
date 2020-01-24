@@ -4,7 +4,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 202" stroke-linecap="round" stroke="black">
    <!-- SERVICE -->
-   <g stroke-width="11"  fill="none">
+   <g stroke-width="11"  fill="none" stroke="#b40">
       <!-- S -->
       <path d="M123 8 Q123 17 133 17 H150 Q160 17 160 26" />
       <!-- E -->
