@@ -1,3 +1,14 @@
+.my_colors {
+    color: #fe0;
+    color: #980;
+    color: #f09;
+    color: #805;
+    color: #20f;
+    color: #107;
+}
+
+
+
 .container {
     /* background-color: #888; */
 }
@@ -9,11 +20,6 @@
     width: 75px;
     opacity: 1;
     padding: 0%;
-}
-
-.red {
-    opacity: .5;
-    background-color: #f00;
 }
 
 .over {
@@ -28,39 +34,39 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    max-width: 1700px;
+    max-width: 1300px;
     margin: auto;
 }
   
 /* Navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #107;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #fe0;
     text-align: center;
     padding: 20px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
+    font-weight: bold;
 }
 
-.topnav a:first-of-type {
-    padding: 3px 10px 1px;
+.topnav a:first-of-type, .topnav a:first-of-type:hover  {
+    padding: 4px 10px;
     background-color: #aaa;
 }
 
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: #20f;
     color: black;
 }
 
 .topnav a.active {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #805;
 }
 
 .topnav .icon {
