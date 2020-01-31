@@ -10,7 +10,9 @@
 
 
 .container {
-    /* background-color: #888; */
+  background-image: url('car.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .car_service li {
