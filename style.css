@@ -51,6 +51,8 @@ body {
 }
 
 .topnav a {
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
     float: left;
     display: block;
     color: #fe0;
