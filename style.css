@@ -14,14 +14,28 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* lists */
+
+ul.services {
+  padding: 0;
+  text-align: center;
+}
 
 .services li {
   list-style: none;
   display: block;
   font-size: 22px;
   font-weight: lighter;
-  padding: 10px;
-  margin: 0;
+  padding: 8px 30px;
+  width: max-content;
+  margin: 5px auto;
+  background-color: #fe0;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+.services li:hover {
+  background-color: #980;
 }
 
 .size_img {
@@ -64,7 +78,7 @@ body {
     text-align: center;
     padding: 20px 20px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 27px;
     font-weight: bold;
 }
 
