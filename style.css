@@ -36,6 +36,8 @@ ul.services {
 
 .services li:hover {
   background-color: #980;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 .size_img {
