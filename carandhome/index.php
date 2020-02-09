@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 
-<?php
-include(page2.php);
-?>
-
 <html lang="en">
    <head>
 
